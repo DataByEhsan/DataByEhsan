@@ -10,8 +10,8 @@ and this GitHub is my journal — where I document projects, growth, and experim
 ## ☕️ Stay Connected  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([your-instagram-url](https://www.instagram.com/databyehsan?igsh=MTh1dm93cGtpamt0OA%3D%3D&utm_source=qr))  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Ehsandris@yahoo.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/databyehsan?igsh=MTh1dm93cGtpamt0OA%3D%3D&utm_source=qr))  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ehsanderisavi@gmail.com)  
 
 ---
 
